@@ -99,6 +99,11 @@ Tue Mar 20 18:50:12 UTC 2018 - michele.bologna@suse.com
   * fix-decrease-loglevel-when-unable-to-resolve-addr.patch
 
 -------------------------------------------------------------------
+Tue Mar 13 09:59:14 UTC 2018 - mc@suse.com
+
+- created a python 2.6 compatible salt library used for thin generation
+
+-------------------------------------------------------------------
 Wed Mar  7 16:07:24 UTC 2018 - pablo.suarezhernandez@suse.com
 
 - Explore 'module.run' state module output in depth to catch the
